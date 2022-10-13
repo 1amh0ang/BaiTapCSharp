@@ -1,0 +1,11 @@
+D:\C#\Baitap\bai111\bai111\bin\Debug\bai111.exe.config
+D:\C#\Baitap\bai111\bai111\bin\Debug\bai111.exe
+D:\C#\Baitap\bai111\bai111\bin\Debug\bai111.pdb
+D:\C#\Baitap\bai111\bai111\obj\Debug\bai111.csproj.AssemblyReference.cache
+D:\C#\Baitap\bai111\bai111\obj\Debug\bai111.csproj.SuggestedBindingRedirects.cache
+D:\C#\Baitap\bai111\bai111\obj\Debug\bai111.Form1.resources
+D:\C#\Baitap\bai111\bai111\obj\Debug\bai111.Properties.Resources.resources
+D:\C#\Baitap\bai111\bai111\obj\Debug\bai111.csproj.GenerateResource.cache
+D:\C#\Baitap\bai111\bai111\obj\Debug\bai111.csproj.CoreCompileInputs.cache
+D:\C#\Baitap\bai111\bai111\obj\Debug\bai111.exe
+D:\C#\Baitap\bai111\bai111\obj\Debug\bai111.pdb
